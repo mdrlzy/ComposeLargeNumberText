@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LargeNumberText"
 include(":sample")
+include(":largenumbertext")
